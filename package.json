@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/raulFuzita/basic-node-app/issues"
   },
-  "homepage": "https://github.com/raulFuzita/basic-node-app#readme"
+  "homepage": "https://github.com/raulFuzita/basic-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
