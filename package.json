@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-app",
+  "version": "1.0.0",
+  "description": "A simple structure of a basic node app. Each piece approaches an aspect of app functionality.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulFuzita/basic-node-app.git"
+  },
+  "author": "Raul Macedo Fuzita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raulFuzita/basic-node-app/issues"
+  },
+  "homepage": "https://github.com/raulFuzita/basic-node-app#readme"
+}
